@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalMenuView", "DigitalMenuView.csproj", "{0F6F313B-59FA-4684-9BAD-BCC29D211C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6F313B-59FA-4684-9BAD-BCC29D211C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6F313B-59FA-4684-9BAD-BCC29D211C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6F313B-59FA-4684-9BAD-BCC29D211C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6F313B-59FA-4684-9BAD-BCC29D211C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D71BB69-4366-4650-B36E-44B84852E08B}
+	EndGlobalSection
+EndGlobal
